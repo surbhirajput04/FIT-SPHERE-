@@ -20,6 +20,8 @@ Unique and Dynamic Design.
 Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
 layout
+
+
 ![Screenshot 2024-12-10 222019](https://github.com/user-attachments/assets/9e5b6fbc-c89b-4e2e-ae46-5440c339e525)
 
 
